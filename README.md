@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ssoumay11/Leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Ssoumay11/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ssoumay11/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ssoumay11/Leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Ssoumay11/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
