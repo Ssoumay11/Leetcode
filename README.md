@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Ssoumay11/Leetcode/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ssoumay11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ssoumay11/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Ssoumay11/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
