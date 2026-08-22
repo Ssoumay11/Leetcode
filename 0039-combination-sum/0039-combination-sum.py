@@ -1,28 +1,43 @@
 class Solution:
 
-    def solve(self, candidates, target, idx, temp, current_sum, result):
+    def __init__(self):
+        self.result = []
 
-        # Base Case
-        if idx == len(candidates):
-            if current_sum == target:
-                result.append(temp.copy())
+    def solve(self, candidates, idx, target, temp):
+
+        # Target reached
+        if target == 0:
+            self.result.append(temp.copy())
             return
 
-        # TAKE
-        if current_sum + candidates[idx] <= target:
-            temp.append(candidates[idx])
-            self.solve(candidates, target, idx, temp, current_sum + candidates[idx], result)
-            temp.pop()
+        # Invalid case
+        if target < 0 or idx >= len(candidates):
+            return
 
-        # NOT TAKE
-        self.solve(candidates, target, idx + 1, temp, current_sum, result)
+        # Take current element
+        temp.append(candidates[idx])
 
+        # Same element can be used again
+        self.solve(
+            candidates,
+            idx,
+            target - candidates[idx],
+            temp
+        )
 
-    def combinationSum(self, candidates, target):
+        # Backtrack
+        temp.pop()
 
-        result = []
-        temp = []
+        # Don't take current element
+        self.solve(
+            candidates,
+            idx + 1,
+            target,
+            temp
+        )
 
-        self.solve(candidates, target, 0, temp, 0, result)
+    def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
 
-        return result
+        self.solve(candidates, 0, target, [])
+
+        return self.result
