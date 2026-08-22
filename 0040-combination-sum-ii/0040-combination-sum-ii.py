@@ -5,20 +5,17 @@ class Solution:
 
     def solve(self, candidates, idx, target, temp):
 
-        # Target reached
+        # Base case
         if target == 0:
             self.result.append(temp.copy())
             return
 
         # Invalid case
-        if target < 0 or idx >= len(candidates):
+        if idx >= len(candidates) or target < 0:
             return
 
-        # Take current element
+        # Take
         temp.append(candidates[idx])
-
-        # Move to next index because
-        # each element can be used only once
         self.solve(
             candidates,
             idx + 1,
@@ -30,26 +27,30 @@ class Solution:
         temp.pop()
 
         # Skip duplicate elements
-        next_idx = idx + 1
-
         while (
-            next_idx < len(candidates)
-            and candidates[next_idx] == candidates[idx]
+            idx + 1 < len(candidates)
+            and candidates[idx] == candidates[idx + 1]
         ):
-            next_idx += 1
+            idx += 1
 
-        # Don't take current element
+        # Don't take
         self.solve(
             candidates,
-            next_idx,
+            idx + 1,
             target,
             temp
         )
 
-    def combinationSum2(self, candidates: list[int], target: int) -> list[list[int]]:
+    def combinationSum2(
+        self,
+        candidates: list[int],
+        target: int
+    ) -> list[list[int]]:
 
         candidates.sort()
 
-        self.solve(candidates, 0, target, [])
+        temp = []
+
+        self.solve(candidates, 0, target, temp)
 
         return self.result
