@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ssoumay11/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Ssoumay11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ssoumay11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ssoumay11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ssoumay11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
