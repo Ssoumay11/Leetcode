@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ssoumay11/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ssoumay11/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ssoumay11/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ssoumay11/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ssoumay11/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ssoumay11/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ssoumay11/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ssoumay11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ssoumay11/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
