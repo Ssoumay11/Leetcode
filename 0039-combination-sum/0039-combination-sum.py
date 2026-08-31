@@ -1,6 +1,6 @@
 class Solution:
 
-    def __init__(self):
+    """def __init__(self):
         self.result = []
 
     def solve(self, candidates, idx, target, temp):
@@ -34,10 +34,35 @@ class Solution:
             idx + 1,
             target,
             temp
-        )
+        )"""
 
     def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
 
-        self.solve(candidates, 0, target, [])
 
-        return self.result
+        result = []
+
+        def backtrack(start, target, temp):
+
+            # Target achieved
+            if target == 0:
+                result.append(temp.copy())
+                return
+
+            # Target exceeded
+            if target < 0:
+                return
+
+            for i in range(start, len(candidates)):
+
+                # Take
+                temp.append(candidates[i])
+
+                # Same i because we can reuse the number
+                backtrack(i, target - candidates[i], temp)
+
+                # Backtrack
+                temp.pop()
+
+        backtrack(0, target, [])
+
+        return result
