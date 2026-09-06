@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Ssoumay11/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Ssoumay11/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ssoumay11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ssoumay11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ssoumay11/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ssoumay11/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Ssoumay11/Leetcode/tree/master/0344-reverse-string) |
 ## Linked List
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Ssoumay11/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ssoumay11/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ssoumay11/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
@@ -87,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Ssoumay11/Leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ssoumay11/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
