@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ssoumay11/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ssoumay11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ssoumay11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ssoumay11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ssoumay11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -124,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ssoumay11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ssoumay11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
