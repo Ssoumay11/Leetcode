@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ssoumay11/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ssoumay11/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ssoumay11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ssoumay11/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ssoumay11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ssoumay11/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Ssoumay11/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Ssoumay11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ssoumay11/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ssoumay11/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ssoumay11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
