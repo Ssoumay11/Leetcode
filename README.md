@@ -166,12 +166,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Ssoumay11/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Ssoumay11/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Ssoumay11/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ssoumay11/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Ssoumay11/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ssoumay11/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Ssoumay11/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Ssoumay11/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
