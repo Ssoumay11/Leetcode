@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ssoumay11/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Ssoumay11/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ssoumay11/Leetcode/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ssoumay11/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ssoumay11/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ssoumay11/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ssoumay11/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0227-basic-calculator-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Ssoumay11/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ssoumay11/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ssoumay11/Leetcode/tree/master/0567-permutation-in-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ssoumay11/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ssoumay11/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ssoumay11/Leetcode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Design
 |  |
 | ------- |
