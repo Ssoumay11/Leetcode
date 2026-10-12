@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ssoumay11/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ssoumay11/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ssoumay11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ssoumay11/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Ssoumay11/Leetcode/tree/master/0739-daily-temperatures) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ssoumay11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ssoumay11/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ssoumay11/Leetcode/tree/master/0567-permutation-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ssoumay11/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ssoumay11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ssoumay11/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ssoumay11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
