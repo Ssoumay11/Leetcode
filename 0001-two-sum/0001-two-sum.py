@@ -1,11 +1,13 @@
+#take the number check for other number whose both sum is equal to target
+#[2,7,11,15]  target 9 first element is 2  find that number that target - elements
+#9-2 we have to find 7 using map 
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
-        #brute 
-        #two loop 
-        #hold the first number in first loop then second no in second loop 
-        n=len(nums)
-        #range fuc (start , end , step (opt))
-        for i in range(n): #first no 
-            for j in range(i+1,n):#second no
-                if nums[i]+nums[j]==target:
-                    return[i,j]
+        seen={}
+        for i, num in enumerate(nums):
+            complement=target-num
+
+            if complement in seen:
+                return [seen[complement],i]  #checking into map for 7, 2 
+            seen[num]=i  
+        
