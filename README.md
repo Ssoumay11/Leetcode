@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ssoumay11/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ssoumay11/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Ssoumay11/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ssoumay11/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Ssoumay11/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Ssoumay11/Leetcode/tree/master/0853-car-fleet) |
