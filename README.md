@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ssoumay11/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ssoumay11/Leetcode/tree/master/0046-permutations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ssoumay11/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ssoumay11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ssoumay11/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ssoumay11/Leetcode/tree/master/0567-permutation-in-string) |
