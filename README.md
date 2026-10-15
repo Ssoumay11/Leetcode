@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ssoumay11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ssoumay11/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ssoumay11/Leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Ssoumay11/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Ssoumay11/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Ssoumay11/Leetcode/tree/master/0853-car-fleet) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ssoumay11/Leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ssoumay11/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ssoumay11/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ssoumay11/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ssoumay11/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ssoumay11/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ssoumay11/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ssoumay11/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Ssoumay11/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/Ssoumay11/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ssoumay11/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ssoumay11/Leetcode/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ssoumay11/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ssoumay11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ssoumay11/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Ssoumay11/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ssoumay11/Leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ssoumay11/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ssoumay11/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ssoumay11/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ssoumay11/Leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Ssoumay11/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ssoumay11/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -197,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ssoumay11/Leetcode/tree/master/0268-missing-number) |
 | [0853-car-fleet](https://github.com/Ssoumay11/Leetcode/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
